@@ -1,0 +1,21 @@
+{
+  "registry_version": "1.0",
+  "project": "Genesis Blockchain",
+  "record_type": "Genesis Registry Entry",
+  "timestamp": "2025-10-25T08:05:04.211014Z",
+  "founder": {
+    "name": "Armin Motazhari",
+    "did": "did:genesis:armin-motazhari-001",
+    "email": "a.motazhary@yahoo.com",
+    "jurisdiction": "United States (Delaware C-Corp)"
+  },
+  "linked_repository": "https://github.com/amotazhary-creat/genesis-record",
+  "record_hash": "ff8d453cfe6294c397a4b0cc2c01b4087be0e351bcc4f94d228ab412fbfbc215",
+  "record_source": "GenesisRecord.json (v4.0 Official)",
+  "blockchain_plan": {
+    "network": "Ethereum Sepolia Testnet",
+    "method": "Transaction note (hash-only record)",
+    "status": "Pending submission"
+  },
+  "remarks": "This registry file serves as immutable proof of authorship and existence for Genesis Blockchain project by Armin Motazhari."
+}
