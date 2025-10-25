@@ -1,0 +1,104 @@
+{
+  "project": "Genesis Blockchain",
+  "version": "v4.0 Official",
+  "founder": {
+    "name": "Armin Motazhari",
+    "did": "did:genesis:armin-motazhari-001",
+    "email": "a.motazhary@yahoo.com",
+    "whatsapp": "+989190024944",
+    "jurisdiction": "United States (Delaware C-Corp)",
+    "purpose": "AI-driven ethical blockchain for global justice, transparency, and peace."
+  },
+  "vision": {
+    "mission": "To build a global ethical blockchain promoting justice, awareness, equality, and sustainability.",
+    "principles": [
+      "Freedom, awareness, and justice for all humanity.",
+      "Anti-war, anti-violence, and anti-poverty principles.",
+      "Cultural respect and global collaboration.",
+      "Environmental protection and clean energy commitment.",
+      "Fair and transparent governance for all participants."
+    ]
+  },
+  "compliance": {
+    "framework": "Global Compliance Framework",
+    "rules": [
+      "Full AML/CFT compliance",
+      "Travel Rule (IVMS-101) support",
+      "MiCA (EU) and FinCEN (US) standards",
+      "Zero-Knowledge (zk) compliance proofs for privacy",
+      "Ethical usage only — no illegal or exploitative purposes"
+    ]
+  },
+  "tokenomics": {
+    "tokens": {
+      "GEN": "Main economic token (ERC20 with Compliance Hooks)",
+      "GVT": "Governance voting token (Soulbound, non-transferable)"
+    },
+    "distribution": {
+      "validators_pop": "60% - participation and green energy rewards",
+      "treasury": "25% - development and liquidity",
+      "ubi_green": "15% - environmental and social impact"
+    },
+    "treasury_split": {
+      "founder_reserve": "15% (locked, immutable)",
+      "network_development": "25%",
+      "ubi_green": "25%",
+      "governance_rewards": "15%",
+      "burn_stability": "20%"
+    },
+    "inflation_model": "Low inflation (1–2%) adaptive minting per epoch",
+    "fee_structure": {
+      "tier_1": "≤ 0.2 ETH — 0.10%",
+      "tier_2": "≤ 0.5 ETH — 0.13%",
+      "tier_3": "≤ 1.0 ETH — 0.16%",
+      "tier_4": "≤ 2.0 ETH — 0.20%",
+      "tier_5": "> 2.0 ETH — 0.25%"
+    }
+  },
+  "governance": {
+    "model": "Hybrid on-chain governance with quadratic and reputation voting.",
+    "protections": [
+      "FounderLock (immutable, non-votable assets)",
+      "Timelock (48–72h delay for all protocol changes)",
+      "ChangeProvenance (records proposer DID + IPFS hash)"
+    ]
+  },
+  "ai_core": {
+    "ethics_monitor": "Detects harmful or unethical activity; records aiAuditHash per block.",
+    "economic_advisor": "Proposes emission and fee adjustments within safe bounds.",
+    "compliance_ai": "Monitors FATF/MiCA/FinCEN updates; proposes compliance adapters.",
+    "xai_logs": "Explainable AI proposals stored and anchored to IPFS."
+  },
+  "security": {
+    "audits": [
+      "Independent multi-stage audits (code, governance, AI)",
+      "Bug bounty program (critical to low severity)",
+      "EmergencyGovernor with global pause/quarantine ability"
+    ],
+    "protections": [
+      "MPC multisig treasury control",
+      "Reentrancy guards",
+      "Weekly IPFS/Arweave network snapshots"
+    ]
+  },
+  "phases": {
+    "phase_1": "Vision and Awareness — foundation and supporter signup",
+    "phase_2": "Compliance and Legal Framework — establish regulatory alignment",
+    "phase_3": "Tokenomics and Governance — economic model and voting logic",
+    "phase_4": "Technical Implementation — smart contracts and test deployments",
+    "phase_5": "Audit, Public Readiness, and Ecosystem Launch — prepare for mainnet 2027-12-01"
+  },
+  "launch_plan": {
+    "testnet": "2026 (incentivized testnet)",
+    "mainnet": "2027-12-01 (public release)",
+    "registry_hash_strategy": "Genesis hash private until public multi-party timestamping"
+  },
+  "ethics": {
+    "charter": "Genesis shall never be used for illegal, violent, or exploitative purposes. The network is dedicated to peace, awareness, equality, and environmental respect."
+  },
+  "records": {
+    "format": "JSON",
+    "file_hash_placeholder": "To be registered on-chain in Genesis Registry Phase",
+    "repository_link": "https://github.com/amotazhary-creat/genesis-record"
+  }
+}
