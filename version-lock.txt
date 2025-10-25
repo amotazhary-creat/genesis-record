@@ -1,0 +1,3 @@
+Genesis Blockchain — Version v4.0 Locked
+Commit Reference: [تاریخ امروز]
+All genesis files are finalized.
