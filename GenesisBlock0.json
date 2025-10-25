@@ -1,0 +1,29 @@
+{
+  "genesis_block": {
+    "version": "1.0",
+    "network": "Genesis Blockchain — Creation Block",
+    "timestamp": "2025-10-25T00:00:00Z",
+    "founder": "Armin Motazhari",
+    "founder_did": "did:genesis:armin-motazhari-001",
+    "message": "Humanity deserves justice, awareness, and peace — not war, greed, or ignorance.",
+    "ai_quote": "May every block build a fairer world — where technology serves conscience.",
+    "technical_hash_reference": "0xff8d453cfe6294c397a4b0cc2c01b4087be0e351bcc4f94d228ab412fbfbc215",
+    "reserve_allocation": {
+      "founder_locked_gen": 20000000,
+      "unit": "GEN"
+    },
+    "commitment": {
+      "integrity": "Immutable",
+      "compliance": "Global AML/CFT / zk-Privacy",
+      "audit": "Scheduled multi-party verification"
+    },
+    "ethics_charter": "Genesis shall never be used for war, violence, or exploitation. It stands for justice, peace, and awareness.",
+    "file_registry": {
+      "previous_records": [
+        "GenesisRecord.json",
+        "GenesisRegistryRecord.json"
+      ],
+      "repository": "https://github.com/amotazhary-creat/genesis-record"
+    }
+  }
+}
